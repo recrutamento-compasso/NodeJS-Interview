@@ -1,3 +1,5 @@
+# NÃO FAÇA FORK DESSE REPOSITÓRIO
+
 # Roteiro Entrevista Node.js
 
 ## Objetivo
